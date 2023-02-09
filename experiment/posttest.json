@@ -4,7 +4,7 @@
     {
       "question": "The power factor angle of a purely inductive circuit is: ?",
       "answers": {
-        "a": "1.	45 degree",
+        "a": "45 degree",
         "b": "60 degree",
         "c": "75 degree",
         "d": "90 degree"
@@ -13,18 +13,18 @@
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
-        "d": "Explanation 2"
+        "d": "In a pure inductive circuit, the current is lagging by 90 degrees from the voltage. The power factor is the cosine of the angle between the voltage and the current. If the angle between the voltage and current is 90, then cos90=0. Hence, the power factor is zero."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": " The power factor of capacitive circuits is:?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Leading",
+        "b": "Lagging",
+        "c": "Both of these",
+        "d": "Any of these"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +32,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
