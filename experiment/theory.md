@@ -17,11 +17,11 @@ P  =  V x I  x cosɸ <br>
  
 Value of Actual power should be same as Calculated Power. <br>
   <h4> Calculation of Power factor  </h4> <br>
-  <img src="experiment/images/11_1.png" width=350, height=350>
+  <img src="experiment/images/11_1.png" width=350 height=350>
 <br>
 <h4>VI characteristic power-Factor</h4> <br>
 
- <img src="images/Screenshot 2023-02-09 131502.png" >
+ <img src="images/Screenshot 2023-02-09 131502.png" width=350 height=350 >
 
 
 
