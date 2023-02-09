@@ -21,8 +21,7 @@ Value of Actual power should be same as Calculated Power. <br>
 <br>
 <h4>VI characteristic power-Factor</h4> <br>
 
-![image](https://user-images.githubusercontent.com/118993534/217617088-b3fe5122-e374-480b-a4da-6344f67b677f.png)
-<br>
+ <img src="images/11_1.png" >
 
 
 
