@@ -2,7 +2,7 @@
 <p>
 Power factor is an important parameter for the calculation of active and reactive power in electrical circuit. It has significance only for AC circuit. For DC circuit, it is not considered for power calculation. Its value is unity for DC circuit and may vary in between zero to one for AC circuit 
   
-  <img src="experiment/images/11_1.png" >   <br>
+  <img src="images/11_1.png" >   <br>
   Power Factor Formula : cosɸ <br>
  
 Formula use to find  Actual Power and Calculated Power: <br>
