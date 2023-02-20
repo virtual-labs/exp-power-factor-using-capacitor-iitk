@@ -81,5 +81,6 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.|  <br> | <br> |   
-2.|  <br> | <br> |
+1.|As the student press on simulator ON button. Simulator will allow student to make connections and will alert him in case of wrong connections made.   | As the student press on simulator ON button. Simulator will allow student to make connections and will alert him in case of wrong connections made. | To 	initiate simulator 	the  
+2.| Simulator will check whether the voltmeter, ammeter, wattmeter, voltage variable and load are connected correctly in case of wrong connection simulator will through a message. | Student will be able to connect voltmeter, ammeter, wattmeter, voltage variable and load.  |Student will able to calculate the multiplying factor which will give the actual measured power and by taking power factor equal to one student will be able to find calculated power. 
+3.| As soon as the simulator will find the set up correct, then it will enable the power button to get the value of Actual measured power and Calculated power.   |Student can choose the desired value of Load to get different value of current.  |To get the value of actual 	measured power and Calculated power.  
