@@ -1,1 +1,39 @@
-/* You CSS goes in here */
+.container{
+    height: 500px;
+    padding-top: 30px;
+    
+/* background-color: brown; */
+
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: rgb(243, 228, 213);
+    box-sizing: border-box;
+    box-shadow: rgba(1, 1, 50, 0.25) 0px 50px 100px -20px, rgba(246, 96, 96, 0.3) 0px 30px 60px -30px, rgba(1, 23, 46, 0.35) 0px -2px 6px 0px inset;
+    /* margin-right: 30px; */
+    padding-right: 180px;
+}
+
+
+
+.containers{
+    margin-top: 40px;
+    display: flex;
+    /* flex-wrap: wrap; */
+    align-items: center;
+ 
+}
+.control-grp{
+    margin: 16px;
+}
+.contain{
+    position: relative;
+			width: 1000px;
+			height: 900px;
+			border: 1px solid black;
+			margin: 20px auto;
+            border-radius: 20px;
+            background-color: rgb(249, 255, 208);
+}
+#table{
+    width: 100%;
+}
