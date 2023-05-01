@@ -4,9 +4,7 @@
 <b>Discipline | <b>Basic Electrical Engineering
 :--|:--|
 <b> Lab | <b> Electrical Engineering Lab
-<b> Experiment|     <b> Measurement of power and power factor in a single-phase 
-ac series inductive circuit and study improvement of power factor using capacitors: 
-. 
+<b> Experiment| <b> Measurement of power and power factor in a single-phase ac series inductive circuit and study improvement of power factor using capacitors:
 
 ### About the Experiment 
 This experiment is concern about the process of mrasurement of power and power factor in am single phase ac series inductive circuit and the way of improvement of power factor using capacitor.
