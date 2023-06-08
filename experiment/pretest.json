@@ -2,29 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The maximum value of power factor is _______. ?",
+      "question": "This is a Sample Question 1?",
       "answers": {
-        "a": "	More than unity ",
-        "b": "less than unity ",
-        "c": "Unity",
-        "d": "Zero"
+        "a": "answer1",
+        "b": "answer2",
+        "c": "answer3",
+        "d": "answer4"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
-        "c": "he power factor is unity when the circuit is purely resistive The maximum value of the power factor is unity (1) The power factor for a purely resistive load is unity (1)The power factor for RL load is less than unity (1) and is lagging in nature • The power factor for RC load is also less than unity (1) but leading in nature",
+        "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": ". A capacitor with reactance of 3 Ω is connected in series with a resistor of 4 Ω across a supply frequency of 50 Hz. Find the power factor?",
+      "question": "This is a Sample Question 2?",
       "answers": {
-        "a": "0.7",
-        "b": "0.6",
-        "c": "0.8",
-        "d": "0.9"
+        "a": "answer1",
+        "b": "answer2",
+        "c": "answer3",
+        "d": "answer4"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
