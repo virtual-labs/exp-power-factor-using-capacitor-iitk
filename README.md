@@ -9,15 +9,15 @@
 ### About the Experiment 
 This experiment is concern about the process of mrasurement of power and power factor in am single phase ac series inductive circuit and the way of improvement of power factor using capacitor.
 
-<b>Name of Developer | <b> Sneha Kumari 
+<b>Name of Developer | <b>Dr. Ashutosh Tiwari  
 :--|:--|
 <b> Institute | <b> Rajkiya Engineering College Banda 
-<b> Email id|     <b>snehakumarihzb1@gmail.com
-<b> Department |  Information Technology
+<b> Email id|     <b>ashutosh.tiwari@recbanda.ac.in
+<b> Department |  Applied Science and Humanities
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 |  Nishant Pandey| Student| Mechanical Engineering  | Rajkiya Engineering College Banda |nishpand01@gmail.com
-2 | Dr. Ashutosh Tiwari| Faculty | Applied Science and Humanities  | Rajkiya Engineering College Banda | ashutosh.tiwari@recbanda.ac.in
+1 |  Sneha Kumari| Student| Information Technology  | Rajkiya Engineering College Banda |snehakumarihzb1@gmail.com
+
