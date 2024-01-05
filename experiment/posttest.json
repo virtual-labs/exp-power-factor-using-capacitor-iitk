@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The power factor angle of a purely inductive circuit is: ?",
+      "question": "1. The power factor angle of a purely inductive circuit is: ?",
       "answers": {
         "a": "45 degree",
         "b": "60 degree",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": " The power factor of capacitive circuits is:?",
+      "question": " 2. The power factor of capacitive circuits is:?",
       "answers": {
         "a": "Leading",
         "b": "Lagging",
