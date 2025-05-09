@@ -10,10 +10,10 @@
         "d": "Zero"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "The power factor is unity when the circuit is purely resistive. The maximum value of the power factor is unity (1). The power factor for a purely resistive load is unity (1). The power factor for RL load is less than unity (1) and is lagging in nature. The power factor for RC load is also less than unity (1) but leading in nature.",
-        "d": "Explanation 2"
+        "a": "Incorrect, as the power factor cannot exceed unity. A power factor greater than 1 is not physically possible.",
+        "b": "Incorrect, as power factor less than unity indicates inefficiency, but it is not the maximum value.",
+        "c": "Correct. The power factor is unity when the circuit is purely resistive. A power factor of 1 represents the maximum possible efficiency in power transfer.",
+        "d": "Incorrect, as a power factor of zero occurs in purely inductive or capacitive circuits, which is the minimum value, not the maximum."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "0.9"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "The power factor (PF) can be calculated as PF = R / Z, where Z = √(R² + Xc²) = √(4² + 3²) = 5. The PF = 4 / 5 = 0.8.",
-        "d": "Explanation 2"
+        "a": "Incorrect, as the power factor is calculated using PF = R / Z. Substituting the given values does not result in 0.7.",
+        "b": "Incorrect, as PF = R / Z does not yield 0.6 with the given values.",
+        "c": "Correct. The power factor (PF) is calculated as PF = R / Z, where Z = √(R² + Xc²) = √(4² + 3²) = 5. Therefore, PF = 4 / 5 = 0.8.",
+        "d": "Incorrect, as the calculation does not yield 0.9 for the given circuit values."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Reverses the power factor"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Adding a capacitor in parallel with an inductive load helps to cancel out the lagging current caused by the inductor, thereby increasing the overall power factor.",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect, as adding a capacitor does not decrease the power factor. Instead, it compensates for the lagging current caused by the inductive load.",
+        "b": "Correct. Adding a capacitor in parallel with an inductive load helps to cancel out the lagging reactive current caused by the inductor, thereby increasing the overall power factor.",
+        "c": "Incorrect, as adding a capacitor does affect the power factor by improving it.",
+        "d": "Incorrect, as adding a capacitor does not reverse the power factor but improves it by reducing lag."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "More than unity"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "The power factor in a purely inductive circuit is zero because the current lags the voltage by 90 degrees.",
-        "d": "Explanation 2"
+        "a": "Incorrect, as unity power factor occurs in purely resistive circuits, not inductive circuits.",
+        "b": "Incorrect, as the power factor in a purely inductive circuit is not just less than unity but is specifically zero.",
+        "c": "Correct. The power factor in a purely inductive circuit is zero because the current lags the voltage by 90 degrees, resulting in zero real power transfer.",
+        "d": "Incorrect, as a power factor greater than unity is not physically possible."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -78,14 +78,13 @@
         "d": "25.84 degrees"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "The angle (φ) can be calculated using the formula cos(φ) = PF. Therefore, φ = cos⁻¹(0.9) ≈ 25.84 degrees."
+        "a": "Incorrect, as a power factor of 0.9 corresponds to a small but non-zero phase difference.",
+        "b": "Incorrect, as cos(30 degrees) = 0.866, which does not correspond to a power factor of 0.9.",
+        "c": "Incorrect, as cos(45 degrees) = 0.707, which does not match the given power factor.",
+        "d": "Correct. The angle (φ) can be calculated using the formula cos(φ) = PF. Therefore, φ = cos⁻¹(0.9) ≈ 25.84 degrees."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
 }
-
