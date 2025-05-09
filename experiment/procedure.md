@@ -2,18 +2,18 @@
  
 <h4>Procedure:</h4><br>
 <p>
-The components (AC voltage source, inductor, resistor, capacitor, voltmeter, ammeter, and wattmeter) are available on the right side of the simulator. They can be dragged and arranged to form the circuit as shown in the circuit diagram. The connections are made by dragging the nodes, and the color change in the nodes confirms the successful connection.<br><br>
+The circuit is already built in the simulation. Follow the steps below to perform the experiment:<br><br>
 
-1. Drag the AC voltage source, inductor, and resistor onto the simulation workspace.<br>
-2. Connect the AC source in series with the inductor and resistor, following the given circuit diagram.<br>
-3. Place an ammeter in series with the circuit to measure the current and connect a voltmeter across the resistor to measure voltage.<br>
-4. Use the wattmeter to measure the power consumed in the circuit.<br>
-5. Run the simulation and note the current, voltage, and power readings.<br>
-6. Calculate the power factor using the measured values (Power factor = True Power / Apparent Power).<br>
-7. To improve the power factor, drag a capacitor onto the workspace and connect it in parallel with the series inductive circuit.<br>
-8. Run the simulation again and note the improved current, voltage, and power readings.<br>
-9. Recalculate the power factor with the capacitor in place and verify the improvement.<br>
-10. Conclude the experiment by comparing the power factor values before and after the addition of the capacitor.<br>
+1. **Complete the circuit by clicking on the ON button given in the circuit.**<br>
+2. Adjust the **resistor value** using the given slider and click the **Add Table** button to store the data in the table.<br>
+3. Observe the initial values of **current, voltage, and power** before adding the capacitor.<br>
+4. There are **two red buttons** near the capacitor: <br>
+   - **Right button:** Connects the capacitor in parallel with the load.<br>
+   - **Left button:** Removes the capacitor from the circuit.<br>
+5. Click the **Right button** to add the capacitor to the circuit.<br>
+6. Once the capacitor is added, observe the new readings of **current, voltage, and power**.<br>
+7. Click the **Add Table** button again to store the new data in the table.<br>
+8. Compare the **power factor** before and after adding the capacitor to analyze the improvement.<br>
+9. Use the **Left button** to remove the capacitor and repeat the steps if needed.<br>
 </p>
 
- 

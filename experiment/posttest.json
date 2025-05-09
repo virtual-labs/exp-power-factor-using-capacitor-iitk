@@ -10,10 +10,10 @@
         "d": "90 degrees"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "In a pure inductive circuit, the current lags the voltage by 90 degrees. The power factor is the cosine of the angle between the voltage and the current. If the angle is 90, then cos(90) = 0. Hence, the power factor is zero."
+        "a": "Incorrect because in a purely inductive circuit, the phase angle cannot be 45 degrees. This would occur in circuits with both resistive and inductive components.",
+        "b": "Incorrect, as the phase angle in a purely inductive circuit is not 60 degrees.",
+        "c": "Incorrect because 75 degrees is not the phase angle for a purely inductive circuit.",
+        "d": "Correct. In a pure inductive circuit, the current lags the voltage by 90 degrees. The power factor is the cosine of this angle. Cos(90) = 0, so the power factor is zero."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Any of these"
       },
       "explanations": {
-        "a": "Capacitive circuits have a leading power factor because the current leads the voltage.",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. Capacitive circuits have a leading power factor because the current leads the voltage.",
+        "b": "Incorrect, as lagging power factors are associated with inductive circuits, not capacitive circuits.",
+        "c": "Incorrect, as the power factor of capacitive circuits is always leading.",
+        "d": "Incorrect, as the power factor of capacitive circuits cannot be arbitrary; it is always leading."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "No effect"
       },
       "explanations": {
-        "a": "A low power factor increases the current required for the same amount of useful power, leading to higher losses in the system.",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. A low power factor increases the current required for the same amount of useful power, leading to higher energy losses due to increased resistance in the system.",
+        "b": "Incorrect, as a low power factor worsens voltage regulation, not improves it.",
+        "c": "Incorrect because a low power factor increases, not reduces, the current flow in the system.",
+        "d": "Incorrect, as a low power factor has a significant impact on the efficiency and performance of an electrical system."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Transformer"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "A capacitor can counteract the lagging current of an inductive load, thus improving the power factor.",
-        "d": "Explanation 2"
+        "a": "Incorrect, as a resistor cannot improve the power factor of an inductive load.",
+        "b": "Incorrect, as an inductor worsens the power factor by increasing the lagging reactive power.",
+        "c": "Correct. A capacitor can counteract the lagging current caused by an inductive load, improving the power factor.",
+        "d": "Incorrect, as a transformer does not improve the power factor. It only transfers power."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "This formula represents the relationship between real power (P), apparent power (S), and power factor (PF).",
-        "c": "The apparent power (S) is the product of voltage (V) and current (I).",
-        "d": "All the formulas correctly define the relationship involving apparent power."
+        "a": "Correct. S = P + jQ is the formula for apparent power in rectangular form, where P is the real power and Q is the reactive power.",
+        "b": "Correct. S = P / PF relates apparent power (S) to real power (P) and power factor (PF).",
+        "c": "Correct. S = V × I is the formula for apparent power in terms of voltage (V) and current (I).",
+        "d": "Correct. All the formulas listed define the relationships involving apparent power in different forms."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
