@@ -21,4 +21,3 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 |  Sneha Kumari| Student| Information Technology  | Rajkiya Engineering College Banda |snehakumarihzb1@gmail.com
 2 |  Rajat Tripathi| Student| Information Technology  | Rajkiya Engineering College Banda |2307340130039@recbanda.ac.in
-3 |  | Student| Information Technology  | Rajkiya Engineering College Banda |
