@@ -20,4 +20,5 @@ This experiment is concern about the process of mrasurement of power and power f
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 |  Sneha Kumari| Student| Information Technology  | Rajkiya Engineering College Banda |snehakumarihzb1@gmail.com
-
+2 |  Rajat Tripathi| Student| Information Technology  | Rajkiya Engineering College Banda |2307340130039@recbanda.ac.in
+2 |  | Student| Information Technology  | Rajkiya Engineering College Banda |
