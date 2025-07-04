@@ -206,4 +206,4 @@ function answerwithcapa() {
     power = power.toFixed(3);
     document.getElementById("current").innerHTML = curr;
     document.getElementById("power").innerHTML = power;
-}
+}            
