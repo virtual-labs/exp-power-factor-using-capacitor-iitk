@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The maximum value of power factor is _______. ?",
+      "answers": {
+        "a": "More than unity",
+        "b": "Less than unity",
+        "c": "Unity",
+        "d": "Zero"
+      },
+      "explanations": {
+        "a": "Incorrect, as the power factor cannot exceed unity. A power factor greater than 1 is not physically possible.",
+        "b": "Incorrect, as power factor less than unity indicates inefficiency, but it is not the maximum value.",
+        "c": "Correct. The power factor is unity when the circuit is purely resistive. A power factor of 1 represents the maximum possible efficiency in power transfer.",
+        "d": "Incorrect, as a power factor of zero occurs in purely inductive or capacitive circuits, which is the minimum value, not the maximum."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A capacitor with reactance of 3 Ω is connected in series with a resistor of 4 Ω across a supply frequency of 50 Hz. Find the power factor?",
+      "answers": {
+        "a": "0.7",
+        "b": "0.6",
+        "c": "0.8",
+        "d": "0.9"
+      },
+      "explanations": {
+        "a": "Incorrect, as the power factor is calculated using PF = R / Z. Substituting the given values does not result in 0.7.",
+        "b": "Incorrect, as PF = R / Z does not yield 0.6 with the given values.",
+        "c": "Correct. The power factor (PF) is calculated as PF = R / Z, where Z = √(R² + Xc²) = √(4² + 3²) = 5. Therefore, PF = 4 / 5 = 0.8.",
+        "d": "Incorrect, as the calculation does not yield 0.9 for the given circuit values."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What effect does adding a capacitor in parallel to an inductive load have on the power factor?",
+      "answers": {
+        "a": "Decreases the power factor",
+        "b": "Increases the power factor",
+        "c": "Has no effect on the power factor",
+        "d": "Reverses the power factor"
+      },
+      "explanations": {
+        "a": "Incorrect, as adding a capacitor does not decrease the power factor. Instead, it compensates for the lagging current caused by the inductive load.",
+        "b": "Correct. Adding a capacitor in parallel with an inductive load helps to cancel out the lagging reactive current caused by the inductor, thereby increasing the overall power factor.",
+        "c": "Incorrect, as adding a capacitor does affect the power factor by improving it.",
+        "d": "Incorrect, as adding a capacitor does not reverse the power factor but improves it by reducing lag."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a purely inductive circuit, the power factor is _______.",
+      "answers": {
+        "a": "Unity",
+        "b": "Less than unity",
+        "c": "Zero",
+        "d": "More than unity"
+      },
+      "explanations": {
+        "a": "Incorrect, as unity power factor occurs in purely resistive circuits, not inductive circuits.",
+        "b": "Incorrect, as the power factor in a purely inductive circuit is not just less than unity but is specifically zero.",
+        "c": "Correct. The power factor in a purely inductive circuit is zero because the current lags the voltage by 90 degrees, resulting in zero real power transfer.",
+        "d": "Incorrect, as a power factor greater than unity is not physically possible."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the power factor of an AC circuit is 0.9, what is the angle of the phase difference between the voltage and current?",
+      "answers": {
+        "a": "0 degrees",
+        "b": "30 degrees",
+        "c": "45 degrees",
+        "d": "25.84 degrees"
+      },
+      "explanations": {
+        "a": "Incorrect, as a power factor of 0.9 corresponds to a small but non-zero phase difference.",
+        "b": "Incorrect, as cos(30 degrees) = 0.866, which does not correspond to a power factor of 0.9.",
+        "c": "Incorrect, as cos(45 degrees) = 0.707, which does not match the given power factor.",
+        "d": "Correct. The angle (φ) can be calculated using the formula cos(φ) = PF. Therefore, φ = cos⁻¹(0.9) ≈ 25.84 degrees."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
