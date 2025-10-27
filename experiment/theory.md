@@ -10,9 +10,8 @@
 </p>
 
 
-<center><img src="images/11_1.png" alt="Power Factor Representation" width="400" height="300">
-</center>
-<p><em>Figure 1: Experimental setup for measuring power and power factor in a single-phase AC circuit using a wattmeter, ammeter, and capacitive load.</em></p>
+<center><img src="images/11_1.png" alt="Power Factor Representation" width="400" height="300"></center>
+<p>Figure 1: Experimental setup for measuring power and power factor in a single-phase AC circuit using a wattmeter, ammeter, and capacitive load.</p>
 <h2>Types of Power in AC Circuits</h2>
 <p>
     AC circuits have three types of power:
